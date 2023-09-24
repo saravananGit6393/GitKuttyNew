@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GitPractice1" project="GitSample1" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.git.practice.GitPractice1" time="0.043">
+    <testcase name="tc1" classname="com.git.practice.GitPractice1" time="0.027"/>
+    <testcase name="tc2" classname="com.git.practice.GitPractice1" time="0.005"/>
+    <testcase name="tc3" classname="com.git.practice.GitPractice1" time="0.011"/>
+  </testsuite>
+</testrun>
